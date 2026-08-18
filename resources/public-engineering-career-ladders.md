@@ -28,11 +28,11 @@ Public career ladders can help engineers and managers compare how different orga
 
 ### Financial Times Engineering Progression
 
-[Open Financial Times Engineering Progression](https://engineering-progression.ft.com/competencies/)
+[Open Financial Times Engineering Progression](https://engineering-progression.ft.com/competencies/) or [inspect its source on GitHub](https://github.com/Financial-Times/engineering-progression).
 
 **Tracks:** Junior Engineer through Technology Director, with individual contributor and people-manager branches at senior and principal levels.
 
-**What is different:** A source-controlled framework organized around nine consistent themes, including planning, business impact, leadership, and technical capability.
+**Why it is useful:** The current framework is public, version-controlled, and maintained as the source of truth for roles in the Financial Times technology organization. It separates current and legacy competencies, supports both IC and people-manager paths, and makes the underlying job-family data available for inspection.
 
 **License:** MIT.
 
@@ -42,19 +42,9 @@ Public career ladders can help engineers and managers compare how different orga
 
 **Tracks:** Engineering individual contributor Levels 1 through 6. The management framework covers Engineering Manager, Senior Engineering Manager, Engineering Director, Vice President of Engineering, and CTO.
 
-**What is different:** The IC framework centers impact, technical skills, and behaviors. The manager framework uses Team and Execution, People, and Leadership. Monzo also explains why its first framework became a checkbox exercise.
+**Why it is useful:** Monzo published both IC and engineering-management frameworks, then documented why its earlier framework became a checkbox exercise. The revised model centers impact, technical skills, and behaviors for engineers and Team and Execution, People, and Leadership for managers.
 
-**Published:** 2021. Treat the linked versions as references rather than assuming they remain Monzo's current internal process.
-
-### CircleCI Engineering Competency Matrix
-
-[Read CircleCI's engineering career-path article](https://circleci.com/blog/why-we-re-designed-our-engineering-career-paths-at-circleci/), which links to the competency matrix and usage guidelines.
-
-**Tracks:** Associate Engineer E1 through Principal Engineer E6.
-
-**What is different:** The matrix gives substantial weight to feedback, communication, collaboration, and leadership. It explicitly recognizes leadership at junior levels and non-linear growth.
-
-**Published:** 2018. Verify the linked matrix's license before reproducing its text.
+**Published:** 2021. Use these as historical implementation references rather than assuming they remain Monzo's current internal process.
 
 ### Devexperts Engineering Grading System
 
