@@ -37,42 +37,12 @@ What aligns with the manager's view? Where do you disagree, or what context and 
 
 ## Growth Objectives
 
-Choose only the objectives that matter now. One may be enough; do not create three merely because the template has room for them.
+Start with one useful objective. Add another only when it genuinely helps focus the work.
 
-### Objective 1
-
-**Why this matters:**
-
-**Evidence or demonstration to pursue:**
+**Objective:**
 
 -
-
-**Manager support, access, feedback, or sponsorship:**
-
 -
-
-### Objective 2
-
-**Why this matters:**
-
-**Evidence or demonstration to pursue:**
-
--
-
-**Manager support, access, feedback, or sponsorship:**
-
--
-
-### Objective 3
-
-**Why this matters:**
-
-**Evidence or demonstration to pursue:**
-
--
-
-**Manager support, access, feedback, or sponsorship:**
-
 -
 
 ## Follow-Through
@@ -87,11 +57,5 @@ Choose only the objectives that matter now. One may be enough; do not create thr
 ## Open Questions or Disagreement
 
 -
-
-## Commitments
-
-| Commitment | Owner | When |
-| --- | --- | --- |
-|  |  |  |
 
 If your organization's framework is missing or ambiguous, use the [Public Engineering Career Ladder Library](../../resources/public-engineering-career-ladders.md) for external examples. External frameworks do not override your employer's expectations or promotion process.
