@@ -22,6 +22,8 @@ Runtime Leadership maintains the canonical root structure and reusable resources
 
 Future upstream changes are options, not mandatory migrations. Users should be able to review and adopt the resources they want without reorganizing their work around the repository.
 
+Workbench does not currently accept external code contributions or pull requests. Ideas, suggestions, and questions should be submitted through the canonical repository's [Issues](https://github.com/runtime-leadership/workbench/issues).
+
 ## Functional Structure
 
 Organize resources by what they do:

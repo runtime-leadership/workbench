@@ -8,6 +8,8 @@ The shared context makes every part more useful: agents can work from durable kn
 
 ## Create a Private Workbench
 
+> **Use this repository as a template, not a public fork.** A public fork remains public, and a plain clone does not create an independent GitHub repository for your work.
+
 1. Select **Use this template** on GitHub.
 2. Create a new repository and set its visibility to **Private**.
 3. Clone it and open it with OpenCode, Claude Code, Codex, Cursor, or another tool that can read a repository.
@@ -42,4 +44,10 @@ Workbench becomes more useful as its parts connect:
 
 Keep only what earns its place. AI can organize and challenge context, but it should not invent missing facts or replace human judgment.
 
-Runtime Leadership maintains the canonical structure and reusable tools. See the [maintainer guide](docs/maintainer-guide.md) for product boundaries, repository conventions, platform compatibility, and publishing guidance.
+## Questions and Suggestions
+
+Runtime Leadership maintains the canonical Workbench structure and does not currently accept external code contributions or pull requests.
+
+[Open an issue](https://github.com/runtime-leadership/workbench/issues) if you have an idea, suggestion, or question. Issues are the preferred way to share feedback about the upstream template.
+
+See the [maintainer guide](docs/maintainer-guide.md) for product boundaries, repository conventions, platform compatibility, and publishing guidance.
