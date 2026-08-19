@@ -4,6 +4,8 @@
 
 Use this guide before a 1:1 to choose one or two useful topics. It is a preparation menu, not an agenda to complete and not a script for the conversation.
 
+Both people are responsible for showing up and contributing. The manager's authority gives them greater accountability for setting the tone, giving feedback consistently, and making honest participation safe. Some engineers will share upward feedback naturally. Others may need repeated evidence that disagreement will be received without defensiveness and followed by action.
+
 ## Before the Conversation
 
 - Review the previous entry in the shared 1:1 document.
@@ -24,12 +26,22 @@ Use this guide before a 1:1 to choose one or two useful topics. It is a preparat
 - Is there feedback that should not wait?
 - Is there work or progress worth recognizing?
 - What might one person see that the other does not?
+- What could the manager do differently to support the engineer or team?
+- Has prior upward feedback led to visible follow-through?
 
 ### Motivation, Workload, and Growth
 
 - Is motivation, energy, workload, or confidence changing?
 - Is there work the engineer wants more or less of?
 - Is an opportunity, expectation, or growth question becoming important?
+
+### Relationship and the Whole Person
+
+- Is there anything outside the immediate work that the person wants to share because it affects how they are showing up?
+- Is there room to talk without forcing every minute toward an action item?
+- What would help both people understand each other better?
+
+Leave personal depth to the person sharing it. Building a relationship does not require prying or documenting private details.
 
 ### Follow-Through and Patterns
 
@@ -51,6 +63,8 @@ Capture only what will be useful later:
 - something worth revisiting
 
 If writing during the conversation is distracting, take a few minutes immediately afterward to add the useful points.
+
+Feedback should not be limited to the 1:1. Give positive and constructive feedback when it is timely; use the 1:1 to deepen the conversation, check understanding, and discuss patterns when needed.
 
 ## Use the History
 
