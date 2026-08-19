@@ -17,6 +17,8 @@ The shared context makes every part more useful: agents can work from durable kn
 
 Do not use a public repository for private employee, company, customer, project, or code context.
 
+Prefer the command line? Follow the [clone and private remote instructions](docs/getting-started.md).
+
 ## What Lives Here
 
 | Path | Purpose | Write policy |
@@ -51,3 +53,5 @@ Runtime Leadership maintains the canonical Workbench structure and does not curr
 [Open an issue](https://github.com/runtime-leadership/workbench/issues) if you have an idea, suggestion, or question. Issues are the preferred way to share feedback about the upstream template.
 
 See the [maintainer guide](docs/maintainer-guide.md) for product boundaries, repository conventions, platform compatibility, and publishing guidance.
+
+Workbench is available under the [MIT License](LICENSE).
