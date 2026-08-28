@@ -59,5 +59,3 @@ Start with one useful objective. Add another only when it genuinely helps focus 
 -
 
 If your organization's framework is missing or ambiguous, use the [Public Engineering Career Ladder Library](../../resources/public-engineering-career-ladders.md) for external examples. External frameworks do not override your employer's expectations or promotion process.
-
-If the disagreement is specifically about leading projects, planning, de-risking, operational readiness, stakeholder communication, or technical influence, rather than overall engineering competency, the [Project Leadership Capability Radar](../../resources/project-leadership-radar.md) gives that narrower slice its own dedicated language and a visual growth curve across levels.
