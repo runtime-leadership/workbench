@@ -15,7 +15,7 @@ The shared context makes every part more useful: agents can work from durable kn
 3. Clone it and open it with OpenCode, Claude Code, Codex, Cursor, or another tool that can read a repository.
 4. Add the approved context and tools that help with your work.
 
-Do not use a public repository for private employee, company, customer, project, or code context.
+Do not use a public repository for private employee, company, customer, project, or code context. See [Security and Privacy](docs/security-and-privacy.md) for concrete guardrails and the safe pattern for contributing generalized improvements back to this repository.
 
 Prefer the command line? Follow the [clone and private remote instructions](docs/getting-started.md).
 

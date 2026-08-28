@@ -24,6 +24,12 @@ Future upstream changes are options, not mandatory migrations. Users should be a
 
 Workbench does not currently accept external code contributions or pull requests. Ideas, suggestions, and questions should be submitted through the canonical repository's [Issues](https://github.com/runtime-leadership/workbench/issues).
 
+## Repository Protections
+
+The canonical repository enforces branch rulesets so that no one, including Runtime Leadership's own maintainers, can push directly to any branch. The default branch also requires a pull request before merging. All changes, including the maintainer's own, arrive through a pull request opened from a personal fork, never a direct push.
+
+See [Security and Privacy](security-and-privacy.md) for the full private-instance guardrails and the fork-based publishing workflow this protection is designed to work with.
+
 ## Functional Structure
 
 Organize resources by what they do:
