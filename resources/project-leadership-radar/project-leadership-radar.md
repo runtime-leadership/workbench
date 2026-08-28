@@ -8,7 +8,7 @@ It is a reference for calibration and conversation, not a scoring rubric. Use it
 
 ## The Radar
 
-![Project Leadership Capability Radar chart showing five dimensions (Planning & Scoping, De-risking, Operational Readiness, Stakeholder Communication, Technical Influence) plotted across five levels from Early to Principal](project-leadership-radar/radar-chart.svg)
+![Project Leadership Capability Radar chart showing five dimensions (Planning & Scoping, De-risking, Operational Readiness, Stakeholder Communication, Technical Influence) plotted across five levels from Early to Principal](radar-chart.svg)
 
 The shape matters as much as the size. Growth is not uniform across dimensions or levels. Technical Influence in particular tends to stay flat through Early and Mid, then climb sharply from Senior onward, while Planning & Scoping tends to grow more steadily from the start. The scale (1-5) is a visualization aid for comparing the five levels on one chart, not a rubric to score someone against.
 
