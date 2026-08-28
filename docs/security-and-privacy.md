@@ -30,6 +30,7 @@ The safe pattern for doing this:
 2. Maintain a separate, personal fork of the canonical repository, unrelated to your private instance's history, used only for publishing.
 3. When something is ready to share: manually copy the specific, reviewed file into the fork, confirm nothing organization-specific or private remains in it, commit, and open a pull request against the canonical repository's default branch.
 4. The canonical repository enforces this path structurally: direct pushes to any branch are restricted for everyone, including maintainers, and the default branch requires a pull request before merging. The only way any change reaches the canonical repository is a reviewed pull request opened from a fork.
+5. Opening a pull request and merging it are two separate decisions. Even if a tool or agent acting on your behalf has the technical ability to merge, merging into the canonical repository is always a distinct, explicit human decision made at the time, not something to infer from earlier context or from the pull request simply being open and ready.
 
 This keeps the two histories independent, makes it structurally difficult to leak private content, and gives every change a reviewable diff before it becomes part of the shared, public resource.
 
