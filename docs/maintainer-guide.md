@@ -26,7 +26,12 @@ Workbench does not currently accept external code contributions or pull requests
 
 ## Repository Protections
 
-The canonical repository enforces branch rulesets so that no one, including Runtime Leadership's own maintainers, can push directly to any branch. The default branch also requires a pull request before merging. All changes, including the maintainer's own, arrive through a pull request opened from a personal fork, never a direct push.
+The canonical repository enforces two independent branch rulesets on the default branch, deliberately kept separate so they can't be bypassed together:
+
+- **No direct pushes, ever.** One ruleset blocks direct pushes, force-pushes, and deletion of the default branch, with no bypass for anyone, including the maintainer. The only way any change can reach the branch is through a pull request.
+- **Review required for anyone but the maintainer.** A second ruleset requires an approving review before a pull request can merge. Since a pull request author can never approve their own pull request, the maintainer is the sole bypass actor for this specific requirement, so their own generalized contributions (published through the fork-based workflow below) aren't stuck behind an impossible self-review. Anyone else's pull request still requires an explicit approving review, and only the maintainer currently has the write access needed to merge at all.
+
+A separate ruleset covers every other branch: branch creation and direct pushes are restricted repository-wide, with no bypass, so the only branches that can ever reach this repository are pull requests opened from forks.
 
 See [Security and Privacy](security-and-privacy.md) for the full private-instance guardrails and the fork-based publishing workflow this protection is designed to work with.
 
