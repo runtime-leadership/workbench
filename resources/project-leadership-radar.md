@@ -4,7 +4,7 @@
 
 Being a strong individual contributor and being trusted to lead a project are different skills. This resource gives engineers and managers shared language for the second one: what changes, across five concrete dimensions, as someone grows from executing a plan to setting the direction others plan around.
 
-It is a reference for calibration and conversation, not a scoring rubric. Use it the same way you would use the [Public Engineering Career Ladder Library](public-engineering-career-ladders.md): to compare interpretations, not to calculate a level.
+It is a reference for calibration and conversation, not a scoring rubric. Use it to compare interpretations, not to calculate a level.
 
 ## The Radar
 
@@ -76,16 +76,16 @@ Finding a better way, being willing to challenge assumptions, bringing an opinio
 
 The jump from Mid to Senior here is deliberately the steepest transition on the chart: moving from executing well against someone else's plan to being the one who shapes the plan is the core shift this dimension is tracking.
 
-## Using This With the Growth Conversation Template
+## How to Use This
 
-This radar pairs naturally with the [Engineering Level Growth Conversation Template](../templates/engineering-level-growth-conversation/template.md):
+Walk through the five dimensions together and mark where each of you sees the engineer's current level landing on each one. A real profile will rarely land on a single tidy level across every axis, and the gaps between dimensions are often the most useful part of the conversation.
 
-1. Walk through the five dimensions together and mark where each of you sees the engineer's current level landing on each one; a real profile will rarely land on a single tidy level across every axis, and the gaps between dimensions are often the most useful part of the conversation.
-2. Use the behavioral language in the tables above as calibration language, not a checklist. The goal is to find shared examples, not to complete every cell.
-3. Feed what you find into the template's growth objectives, prioritizing the one or two dimensions where closing the gap actually matters for the next opportunity in front of the engineer, not every dimension at once.
+Use the behavioral language in the tables above as calibration language, not a checklist. The goal is to find shared examples, not to complete every cell.
+
+Prioritize the one or two dimensions where closing the gap actually matters for the next opportunity in front of the engineer, not every dimension at once.
 
 ## Keep the Limits Clear
 
-- This describes typical project-leadership expectations, not a complete engineering competency ladder; pair it with your employer's own framework or the [Public Engineering Career Ladder Library](public-engineering-career-ladders.md) for the broader picture.
+- This describes typical project-leadership expectations, not a complete engineering competency ladder; pair it with your employer's own framework for the broader picture.
 - The 1-5 scale exists to make the chart legible, not to score a person. Two people at the same level can have very different shapes and both be right on track.
 - A gap on this radar is a conversation starter, not a verdict. It should support judgment and dialogue, the same way the rest of Workbench is meant to.

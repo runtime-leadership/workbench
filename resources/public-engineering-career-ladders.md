@@ -80,8 +80,6 @@ Start with your employer's framework when one exists. Use an external ladder whe
 
 Use the [Engineering Level Growth Conversation Template](../templates/engineering-level-growth-conversation/template.md) to turn that discussion into focused objectives and follow-through.
 
-If the gap you keep running into is specifically about leading projects rather than overall engineering competency, for example planning, de-risking, operational readiness, stakeholder communication, or technical influence, the [Project Leadership Capability Radar](project-leadership-radar.md) gives that narrower slice its own dedicated language and a visual growth curve across levels.
-
 ## Keep the Limits Clear
 
 - Titles do not map consistently between companies.
